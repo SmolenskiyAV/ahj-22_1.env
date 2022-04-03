@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import demo from '../app';
 
 // проверка функции demo
