@@ -1,7 +1,7 @@
 {
   "name": "webpack5",
   "version": "1.0.0",
-  "description": "",
+  "description": "[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)",
   "main": "index.js",
   "scripts": {
     "start": "webpack serve --config webpack.dev.js",
@@ -39,5 +39,13 @@
     "webpack-dev-server": "^3.11.1",
     "webpack-merge": "^5.7.3"
   },
-  "dependencies": {}
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmolenskiyAV/ahj-22_1.env.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/SmolenskiyAV/ahj-22_1.env/issues"
+  },
+  "homepage": "https://github.com/SmolenskiyAV/ahj-22_1.env#readme"
 }
